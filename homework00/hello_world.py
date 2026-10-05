@@ -1,6 +1,6 @@
 """text function code"""
 
 
-def text(message="Hello, World!"):
+def text():
     """returns the message"""
-    return message
+    return "Hello, World!"
