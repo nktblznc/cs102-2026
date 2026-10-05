@@ -3,4 +3,4 @@
 
 def text():
     """returns the message"""
-    return "Hello, World!"
+    return "message"
